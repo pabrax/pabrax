@@ -11,6 +11,7 @@ I am currently expanding my stack with the following technologies:
 - Docker
 - Cloud services
 - Windows Server Environment
+- .Net tecnologies
 
 ## skills
 
@@ -22,4 +23,4 @@ I am currently expanding my stack with the following technologies:
 
 ## contact
 
-Visit my [website](link) 😉
+Visit my [website](link) (work in progress) 😉 
