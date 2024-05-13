@@ -1,26 +1,33 @@
-## Hi There! 👋
+# Hola a todos, Soy Pablo! 👋
 
-Hello! I'm Pablo, I'm a passionate Backend developer.
+Soy un Desarrollador web y me especializo en Backend. 
 
-I like to develop Backend applications and configure Unix and Windows environments
+Cuento con poco mas de un año de experiencia principalmente en la creacion de proyectos web con tecnologias como PHP, javascript y java, manejo de base de datos, manejo de servidores y entornos windows y linux.
 
-I am currently expanding my stack with the following technologies:
+He colaborado en otros proyectos tanto para la creacion de apis como el modelado de Base de datos.
 
-- Docker
-- PHP
-- Cloud services
-- .Net tecnologies
-- C/C++
-- 3D Design
 
-## skills
+### Mi stack Actual de tecnologias
 
-- Experience with SQL & NoSQL.
-- I have used the MERN stack to create web applications and simple pages.
-- I have some experience creating simple applications and web servers using Java, I have implemented OOP concepts in larger projects to improve the structure and design of the code.
-- Using powershell to create CLIs and automate tasks on Windows environments 
-- Experience using GNU/Linux & windows systems
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 
-## contact
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
-Visit my [website](link) (work in progress) 😉 
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+## Contacto
+
+![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)
+
+
+
