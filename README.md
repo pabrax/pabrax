@@ -1,29 +1,46 @@
 # Hola a todos! 👋
 
+Me llamo Pablo, Soy un desarrollador orientado a la web. He creado aplicaciones usando fframeworks como Laravel y .Net Core, asi como aplicaciones sencillas en multiples lenguajes, Me gusta estar en constante aprendizaje y Poniendome a prueba en diferentes escenarios.
 
-Me llamo pablo, soy un apasionado desarrollador e informatico, llevo mas de un año enfocado en el desarrollo de aplicaciones web y scripts de automatizacion.
+### **¿En que me especializo?**
 
-Tengo experiencia desarrollando APIs con php y javascript, ademas de manejar lenguajes como bash y powershell para tareas de automatizacion sencillas.
-
-### ***Actualmente estoy aprendiendo:***
-
-
-Actualmente estoy orientando mi aprendizaje a tecnologias y campos mas tecnicos, como los sistemas operativos o la ciberseguridad, entre algunas herramientas que estoy aprendiendo estan:
-
-- docker
-- c++
-- python
-
-### ***entre mis habilidades puedes encontrar:***
+- API REST con .Net, Laravel y NodeJS.
+- Creacion de SPAs con HTML, CSS, Y JS/TS.
+- Conocimientos en frameworks como Angular, Astro e incluso React.
+- Manejo de bases de datos MySQL y SQL Server.
 
 
+### **Entre mis intereses estan:**
+
+- Programacion a Bajo nivel.
+- Desarrollo Full Stack.
+- Scripting.
+- Ciberseguridad.
+
+## **Mis Habilidades Incluyen**
+
+### **Languages**
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 
-## Contacto
+### **Frameworks**
+
+[![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)](https://github.com/pabrax/Proyecto_ASW)
+![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white)
+
+
+### **Other Tech**
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+
+## Mis Redes
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/pxbrx/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pabrax/)
@@ -31,4 +48,12 @@ Actualmente estoy orientando mi aprendizaje a tecnologias y campos mas tecnicos,
 
 ---
 ***¡Gracias por visitar mi perfil de GitHub!*** 🚀
+
+
+
+
+
+
+
+
 
