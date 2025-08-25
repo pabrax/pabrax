@@ -1,59 +1,30 @@
-# Hola a todos! 👋
+# 👋 ¡Hola! Soy Pablo.  
 
-Me llamo Pablo, Soy un desarrollador orientado a la web. He creado aplicaciones usando fframeworks como Laravel y .Net Core, asi como aplicaciones sencillas en multiples lenguajes, Me gusta estar en constante aprendizaje y Poniendome a prueba en diferentes escenarios.
+### Desarrollador Web | Backend & Automatización | APIs REST  
 
-### **¿En que me especializo?**
+Soy Apasionado por crear soluciones eficientes y escalables. Tengo Experiencia en **desarrollo backend**, **automatización de procesos** y **creación de APIs REST**.
 
-- API REST con .Net, Laravel y NodeJS.
-- Creacion de SPAs con HTML, CSS, Y JS/TS.
-- Conocimientos en frameworks como Angular, Astro e incluso React.
-- Manejo de bases de datos MySQL y SQL Server.
+## 🧑‍💻 Sobre mí  
 
+- Experiencia en **Python, FastAPI, C#, Node.js, Docker** y control de versiones con **Git**.  
+- Práctica profesional en **Colcafé (Grupo Nutresa)**:  
+  - Digitalización de procesos internos con **Apps Script** y **AppSheet**.  
+  - Visualización de datos con **Power BI** y **Looker Studio**.  
+  - Implementación de **Jira** y documentación técnica.  
+- Conocimientos en **arquitecturas de microservicios**, **scripting con Bash y PowerShell** y buenas prácticas de desarrollo.  
+- Motivado por aprender continuamente y aportar valor en equipos multidisciplinarios.  
 
-### **Entre mis intereses estan:**
+## 🛠️ Tecnologías y herramientas  
 
-- Programacion a Bajo nivel.
-- Desarrollo Full Stack.
-- Scripting.
-- Ciberseguridad.
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)  ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)   
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)  ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)  ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)  ![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=flat&logo=googleanalytics&logoColor=white)  
 
-## **Mis Habilidades Incluyen**
+## 🎯 Lo que busco 
 
-### **Languages**
+Seguir creciendo como **desarrollador backend** o **full stack**, aplicando buenas prácticas, desarrollando **APIs escalables** y participando en **proyectos de alto impacto**.  
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+## 📫 Contacto  
 
-### **Frameworks**
-
-[![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)](https://github.com/pabrax/Proyecto_ASW)
-![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white)
-
-
-### **Other Tech**
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
-
-## Mis Redes
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/pxbrx/)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pabrax/)
-[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:pabloeg0420@outlook.com)
-
----
-***¡Gracias por visitar mi perfil de GitHub!*** 🚀
-
-
-
-
-
-
-
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/pabrax/)  [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:pabloeg0420@outlook.com)  [![Portafolio](https://img.shields.io/badge/Portafolio-000000?style=flat&logo=About.me&logoColor=white)](https://pabrax.github.io/PortFolio/)  
 
