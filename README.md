@@ -2,17 +2,17 @@
 
 ### Desarrollador Web | Backend & Automatización | APIs REST  
 
-Soy Apasionado por crear soluciones eficientes y escalables. Tengo Experiencia en **desarrollo backend**, **automatización de procesos** y **creación de APIs REST**.
+Soy Apasionado por crear soluciones eficientes y escalables. Tengo Experiencia en **desarrollo backend**, **automatización de procesos** y **creación de APIs REST** y Bases en el **Desarrollo Frontend**.
 
 ## 🧑‍💻 Sobre mí  
 
 - Experiencia en **Python, FastAPI, C#, Node.js, Docker** y control de versiones con **Git**.  
-- Práctica profesional en **Colcafé (Grupo Nutresa)**:  
-  - Digitalización de procesos internos con **Apps Script** y **AppSheet**.  
-  - Visualización de datos con **Power BI** y **Looker Studio**.  
-  - Implementación de **Jira** y documentación técnica.  
+- Implementación de **Jira** y documentación técnica.
+- Conocimientos en **Astro** y **NextJS**.  
 - Conocimientos en **arquitecturas de microservicios**, **scripting con Bash y PowerShell** y buenas prácticas de desarrollo.  
+- Control de Versiones con **Git** y **GitHub**.
 - Motivado por aprender continuamente y aportar valor en equipos multidisciplinarios.  
+
 
 ## 🛠️ Tecnologías y herramientas  
 
@@ -22,7 +22,7 @@ Soy Apasionado por crear soluciones eficientes y escalables. Tengo Experiencia e
 
 ## 🎯 Lo que busco 
 
-Seguir creciendo como **desarrollador backend** o **full stack**, aplicando buenas prácticas, desarrollando **APIs escalables** y participando en **proyectos de alto impacto**.  
+Estoy en busca de nuevos retos y proyectos que me permitan Seguir creciendo como **desarrollador backend** o **full stack**, aplicando buenas prácticas, desarrollando **APIs escalables** y  **Soluciones escalables y mantenibles** a lo largo del tiempo.
 
 ## 📫 Contacto  
 
